@@ -35,10 +35,10 @@ Comparing them also caught a bug in my first Python version. When two berths wer
 
 | Ship size | Berths it can use | Avg. wait | 95th-pct wait |
 |---|---|---|---|
-| Handysize | 4 | 1.2 h | 6.8 h |
-| Handymax | 4 | 7.1 h | 21.2 h |
-| Supramax / Ultramax | 3 | 7.0 h | 26.6 h |
-| Panamax / Kamsarmax | 2 | 11.6 h | 43.2 h |
+| Handysize | 4 | 1.2 h | 8.4 h |
+| Handymax | 4 | 7.1 h | 22.2 h |
+| Supramax / Ultramax | 3 | 7.0 h | 27.3 h |
+| Panamax / Kamsarmax | 2 | 11.6 h | 43.5 h |
 
 ## How to run
 
